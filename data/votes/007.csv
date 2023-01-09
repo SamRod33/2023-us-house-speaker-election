@@ -1,0 +1,435 @@
+vote,@name-id,@sort-field,@unaccented-name,@party,@state,@role,#text,rollcall-num
+Jeffries,A000370,Adams,Adams,D,NC,legislator,Adams,7
+McCarthy,A000055,Aderholt,Aderholt,R,AL,legislator,Aderholt,7
+Jeffries,A000371,Aguilar,Aguilar,D,CA,legislator,Aguilar,7
+McCarthy,A000379,Alford,Alford,R,MO,legislator,Alford,7
+McCarthy,A000372,Allen,Allen,R,GA,legislator,Allen,7
+Jeffries,A000376,Allred,Allred,D,TX,legislator,Allred,7
+McCarthy,A000369,Amodei,Amodei,R,NV,legislator,Amodei,7
+McCarthy,A000377,Armstrong,Armstrong,R,ND,legislator,Armstrong,7
+McCarthy,A000375,Arrington,Arrington,R,TX,legislator,Arrington,7
+Jeffries,A000148,Auchincloss,Auchincloss,D,MA,legislator,Auchincloss,7
+McCarthy,B001291,Babin,Babin,R,TX,legislator,Babin,7
+McCarthy,B001298,Bacon,Bacon,R,NE,legislator,Bacon,7
+McCarthy,B001307,Baird,Baird,R,IN,legislator,Baird,7
+McCarthy,B001306,Balderson,Balderson,R,OH,legislator,Balderson,7
+Jeffries,B001318,Balint,Balint,D,VT,legislator,Balint,7
+McCarthy,B001299,Banks,Banks,R,IN,legislator,Banks,7
+McCarthy,B001282,Barr,Barr,R,KY,legislator,Barr,7
+Jeffries,B001300,Barragan,Barragan,D,CA,legislator,Barragán,7
+McCarthy,B001314,Bean (FL),Bean (FL),R,FL,legislator,Bean (FL),7
+Jeffries,B001281,Beatty,Beatty,D,OH,legislator,Beatty,7
+McCarthy,B000668,Bentz,Bentz,R,OR,legislator,Bentz,7
+Jeffries,B001287,Bera,Bera,D,CA,legislator,Bera,7
+McCarthy,B001301,Bergman,Bergman,R,MI,legislator,Bergman,7
+Jeffries,B001292,Beyer,Beyer,D,VA,legislator,Beyer,7
+McCarthy,B000740,Bice,Bice,R,OK,legislator,Bice,7
+Donalds,B001302,Biggs,Biggs,R,AZ,legislator,Biggs,7
+McCarthy,B001257,Bilirakis,Bilirakis,R,FL,legislator,Bilirakis,7
+Jeffries,B000490,Bishop (GA),Bishop (GA),D,GA,legislator,Bishop (GA),7
+Donalds,B001311,Bishop (NC),Bishop (NC),R,NC,legislator,Bishop (NC),7
+Jeffries,B000574,Blumenauer,Blumenauer,D,OR,legislator,Blumenauer,7
+Jeffries,B001303,Blunt Rochester,Blunt Rochester,D,DE,legislator,Blunt Rochester,7
+Donalds,B000825,Boebert,Boebert,R,CO,legislator,Boebert,7
+Jeffries,B001278,Bonamici,Bonamici,D,OR,legislator,Bonamici,7
+McCarthy,B001295,Bost,Bost,R,IL,legislator,Bost,7
+Jeffries,B001223,Bowman,Bowman,D,NY,legislator,Bowman,7
+Jeffries,B001296,Boyle (PA),Boyle (PA),D,PA,legislator,Boyle (PA),7
+Donalds,B001317,Brecheen,Brecheen,R,OK,legislator,Brecheen,7
+Jeffries,B001313,Brown,Brown,D,OH,legislator,Brown,7
+Jeffries,B001285,Brownley,Brownley,D,CA,legislator,Brownley,7
+McCarthy,B001260,Buchanan,Buchanan,R,FL,legislator,Buchanan,7
+McCarthy,B001297,Buck,Buck,R,CO,legislator,Buck,7
+McCarthy,B001275,Bucshon,Bucshon,R,IN,legislator,Bucshon,7
+Jeffries,B001315,Budzinski,Budzinski,D,IL,legislator,Budzinski,7
+McCarthy,B001309,Burchett,Burchett,R,TN,legislator,Burchett,7
+McCarthy,B001248,Burgess,Burgess,R,TX,legislator,Burgess,7
+McCarthy,B001316,Burlison,Burlison,R,MO,legislator,Burlison,7
+Jeffries,B001224,Bush,Bush,D,MO,legislator,Bush,7
+McCarthy,C000059,Calvert,Calvert,R,CA,legislator,Calvert,7
+McCarthy,C001039,Cammack,Cammack,R,FL,legislator,Cammack,7
+Jeffries,C001134,Caraveo,Caraveo,D,CO,legislator,Caraveo,7
+Jeffries,C001112,Carbajal,Carbajal,D,CA,legislator,Carbajal,7
+Jeffries,C001097,Cardenas,Cardenas,D,CA,legislator,Cárdenas,7
+McCarthy,C001126,Carey,Carey,R,OH,legislator,Carey,7
+McCarthy,C001054,Carl,Carl,R,AL,legislator,Carl,7
+Jeffries,C001072,Carson,Carson,D,IN,legislator,Carson,7
+McCarthy,C001103,Carter (GA),Carter (GA),R,GA,legislator,Carter (GA),7
+Jeffries,C001125,Carter (LA),Carter (LA),D,LA,legislator,Carter (LA),7
+McCarthy,C001051,Carter (TX),Carter (TX),R,TX,legislator,Carter (TX),7
+Jeffries,C001090,Cartwright,Cartwright,D,PA,legislator,Cartwright,7
+Jeffries,C001131,Casar,Casar,D,TX,legislator,Casar,7
+Jeffries,C001055,Case,Case,D,HI,legislator,Case,7
+Jeffries,C001117,Casten,Casten,D,IL,legislator,Casten,7
+Jeffries,C001066,Castor (FL),Castor (FL),D,FL,legislator,Castor (FL),7
+Jeffries,C001091,Castro (TX),Castro (TX),D,TX,legislator,Castro (TX),7
+McCarthy,C001135,Chavez-DeRemer,Chavez-DeRemer,R,OR,legislator,Chavez-DeRemer,7
+Jeffries,C001127,Cherfilus-McCormick,Cherfilus-McCormick,D,FL,legislator,Cherfilus-McCormick,7
+Jeffries,C001080,Chu,Chu,D,CA,legislator,Chu,7
+Jeffries,C001084,Cicilline,Cicilline,D,RI,legislator,Cicilline,7
+McCarthy,C001133,Ciscomani,Ciscomani,R,AZ,legislator,Ciscomani,7
+Jeffries,C001101,Clark (MA),Clark (MA),D,MA,legislator,Clark (MA),7
+Jeffries,C001067,Clarke (NY),Clarke (NY),D,NY,legislator,Clarke (NY),7
+Jeffries,C001061,Cleaver,Cleaver,D,MO,legislator,Cleaver,7
+McCarthy,C001118,Cline,Cline,R,VA,legislator,Cline,7
+Donalds,C001115,Cloud,Cloud,R,TX,legislator,Cloud,7
+Jeffries,C000537,Clyburn,Clyburn,D,SC,legislator,Clyburn,7
+Donalds,C001116,Clyde,Clyde,R,GA,legislator,Clyde,7
+Jeffries,C001068,Cohen,Cohen,D,TN,legislator,Cohen,7
+McCarthy,C001053,Cole,Cole,R,OK,legislator,Cole,7
+McCarthy,C001129,Collins,Collins,R,GA,legislator,Collins,7
+McCarthy,C001108,Comer,Comer,R,KY,legislator,Comer,7
+Jeffries,C001078,Connolly,Connolly,D,VA,legislator,Connolly,7
+Jeffries,C001110,Correa,Correa,D,CA,legislator,Correa,7
+Jeffries,C001059,Costa,Costa,D,CA,legislator,Costa,7
+Jeffries,C001069,Courtney,Courtney,D,CT,legislator,Courtney,7
+Jeffries,C001119,Craig,Craig,D,MN,legislator,Craig,7
+Donalds,C001132,Crane,Crane,R,AZ,legislator,Crane,7
+McCarthy,C001087,Crawford,Crawford,R,AR,legislator,Crawford,7
+McCarthy,C001120,Crenshaw,Crenshaw,R,TX,legislator,Crenshaw,7
+Jeffries,C001130,Crockett,Crockett,D,TX,legislator,Crockett,7
+Jeffries,C001121,Crow,Crow,D,CO,legislator,Crow,7
+Jeffries,C001063,Cuellar,Cuellar,D,TX,legislator,Cuellar,7
+McCarthy,C001114,Curtis,Curtis,R,UT,legislator,Curtis,7
+McCarthy,D000632,D'Esposito,D'Esposito,R,NY,legislator,D'Esposito,7
+Jeffries,D000629,Davids (KS),Davids (KS),D,KS,legislator,Davids (KS),7
+McCarthy,D000626,Davidson,Davidson,R,OH,legislator,Davidson,7
+Jeffries,D000096,Davis (IL),Davis (IL),D,IL,legislator,Davis (IL),7
+Jeffries,D000230,Davis (NC),Davis (NC),D,NC,legislator,Davis (NC),7
+McCarthy,D000594,De La Cruz,De La Cruz,R,TX,legislator,De La Cruz,7
+Jeffries,D000631,Dean (PA),Dean (PA),D,PA,legislator,Dean (PA),7
+Jeffries,D000197,DeGette,DeGette,D,CO,legislator,DeGette,7
+Jeffries,D000216,DeLauro,DeLauro,D,CT,legislator,DeLauro,7
+Jeffries,D000617,DelBene,DelBene,D,WA,legislator,DelBene,7
+Jeffries,D000530,Deluzio,Deluzio,D,PA,legislator,Deluzio,7
+Jeffries,D000623,DeSaulnier,DeSaulnier,D,CA,legislator,DeSaulnier,7
+McCarthy,D000616,DesJarlais,DesJarlais,R,TN,legislator,DesJarlais,7
+McCarthy,D000600,Diaz-Balart,Diaz-Balart,R,FL,legislator,Diaz-Balart,7
+Jeffries,D000624,Dingell,Dingell,D,MI,legislator,Dingell,7
+Jeffries,D000399,Doggett,Doggett,D,TX,legislator,Doggett,7
+Donalds,D000032,Donalds,Donalds,R,FL,legislator,Donalds,7
+McCarthy,D000633,Duarte,Duarte,R,CA,legislator,Duarte,7
+McCarthy,D000615,Duncan,Duncan,R,SC,legislator,Duncan,7
+McCarthy,D000628,Dunn (FL),Dunn (FL),R,FL,legislator,Dunn (FL),7
+McCarthy,E000246,Edwards,Edwards,R,NC,legislator,Edwards,7
+McCarthy,E000071,Ellzey,Ellzey,R,TX,legislator,Ellzey,7
+McCarthy,E000294,Emmer,Emmer,R,MN,legislator,Emmer,7
+Jeffries,E000299,Escobar,Escobar,D,TX,legislator,Escobar,7
+Jeffries,E000215,Eshoo,Eshoo,D,CA,legislator,Eshoo,7
+Jeffries,E000297,Espaillat,Espaillat,D,NY,legislator,Espaillat,7
+McCarthy,E000298,Estes,Estes,R,KS,legislator,Estes,7
+Jeffries,E000296,Evans,Evans,D,PA,legislator,Evans,7
+McCarthy,E000235,Ezell,Ezell,R,MS,legislator,Ezell,7
+McCarthy,F000246,Fallon,Fallon,R,TX,legislator,Fallon,7
+McCarthy,F000446,Feenstra,Feenstra,R,IA,legislator,Feenstra,7
+McCarthy,F000465,Ferguson,Ferguson,R,GA,legislator,Ferguson,7
+McCarthy,F000475,Finstad,Finstad,R,MN,legislator,Finstad,7
+McCarthy,F000470,Fischbach,Fischbach,R,MN,legislator,Fischbach,7
+McCarthy,F000471,Fitzgerald,Fitzgerald,R,WI,legislator,Fitzgerald,7
+McCarthy,F000466,Fitzpatrick,Fitzpatrick,R,PA,legislator,Fitzpatrick,7
+McCarthy,F000459,Fleischmann,Fleischmann,R,TN,legislator,Fleischmann,7
+Jeffries,F000468,Fletcher,Fletcher,D,TX,legislator,Fletcher,7
+McCarthy,F000474,Flood,Flood,R,NE,legislator,Flood,7
+Jeffries,F000454,Foster,Foster,D,IL,legislator,Foster,7
+Jeffries,F000477,Foushee,Foushee,D,NC,legislator,Foushee,7
+McCarthy,F000450,Foxx,Foxx,R,NC,legislator,Foxx,7
+Jeffries,F000462,"Frankel, Lois","Frankel, Lois",D,FL,legislator,"Frankel, Lois",7
+McCarthy,F000472,"Franklin, C. Scott","Franklin, C. Scott",R,FL,legislator,"Franklin, C. Scott",7
+Jeffries,F000476,Frost,Frost,D,FL,legislator,Frost,7
+McCarthy,F000478,Fry,Fry,R,SC,legislator,Fry,7
+McCarthy,F000469,Fulcher,Fulcher,R,ID,legislator,Fulcher,7
+Donalds,G000578,Gaetz,Gaetz,R,FL,legislator,Gaetz,7
+McCarthy,G000579,Gallagher,Gallagher,R,WI,legislator,Gallagher,7
+Jeffries,G000574,Gallego,Gallego,D,AZ,legislator,Gallego,7
+Jeffries,G000559,Garamendi,Garamendi,D,CA,legislator,Garamendi,7
+McCarthy,G000597,Garbarino,Garbarino,R,NY,legislator,Garbarino,7
+Jeffries,G000586,Garcia (IL),Garcia (IL),D,IL,legislator,García (IL),7
+Jeffries,G000587,Garcia (TX),Garcia (TX),D,TX,legislator,Garcia (TX),7
+McCarthy,G000061,"Garcia, Mike","Garcia, Mike",R,CA,legislator,"Garcia, Mike",7
+Jeffries,G000598,"Garcia, Robert","Garcia, Robert",D,CA,legislator,"Garcia, Robert",7
+McCarthy,G000593,Gimenez,Gimenez,R,FL,legislator,Gimenez,7
+Jeffries,G000592,Golden (ME),Golden (ME),D,ME,legislator,Golden (ME),7
+Jeffries,G000599,Goldman (NY),Goldman (NY),D,NY,legislator,Goldman (NY),7
+Jeffries,G000585,Gomez,Gomez,D,CA,legislator,Gomez,7
+McCarthy,G000594,"Gonzales, Tony","Gonzales, Tony",R,TX,legislator,"Gonzales, Tony",7
+Jeffries,G000581,"Gonzalez, Vicente","Gonzalez, Vicente",D,TX,legislator,"Gonzalez, Vicente",7
+Donalds,G000595,Good (VA),Good (VA),R,VA,legislator,Good (VA),7
+McCarthy,G000589,Gooden (TX),Gooden (TX),R,TX,legislator,Gooden (TX),7
+Donalds,G000565,Gosar,Gosar,R,AZ,legislator,Gosar,7
+Jeffries,G000583,Gottheimer,Gottheimer,D,NJ,legislator,Gottheimer,7
+McCarthy,G000377,Granger,Granger,R,TX,legislator,Granger,7
+McCarthy,G000577,Graves (LA),Graves (LA),R,LA,legislator,Graves (LA),7
+McCarthy,G000546,Graves (MO),Graves (MO),R,MO,legislator,Graves (MO),7
+McCarthy,G000590,Green (TN),Green (TN),R,TN,legislator,Green (TN),7
+Jeffries,G000553,Green (TX),Green (TX),D,TX,legislator,Green (TX),7
+McCarthy,G000596,Greene (GA),Greene (GA),R,GA,legislator,Greene (GA),7
+McCarthy,G000568,Griffith,Griffith,R,VA,legislator,Griffith,7
+Jeffries,G000551,Grijalva,Grijalva,D,AZ,legislator,Grijalva,7
+McCarthy,G000576,Grothman,Grothman,R,WI,legislator,Grothman,7
+McCarthy,G000591,Guest,Guest,R,MS,legislator,Guest,7
+McCarthy,G000558,Guthrie,Guthrie,R,KY,legislator,Guthrie,7
+McCarthy,H001096,Hageman,Hageman,R,WY,legislator,Hageman,7
+Jeffries,H001090,Harder (CA),Harder (CA),D,CA,legislator,Harder (CA),7
+Donalds,H001052,Harris,Harris,R,MD,legislator,Harris,7
+McCarthy,H001086,Harshbarger,Harshbarger,R,TN,legislator,Harshbarger,7
+Jeffries,H001081,Hayes,Hayes,D,CT,legislator,Hayes,7
+McCarthy,H001082,Hern,Hern,R,OK,legislator,Hern,7
+McCarthy,H001077,Higgins (LA),Higgins (LA),R,LA,legislator,Higgins (LA),7
+Jeffries,H001038,Higgins (NY),Higgins (NY),D,NY,legislator,Higgins (NY),7
+McCarthy,H001072,Hill,Hill,R,AR,legislator,Hill,7
+Jeffries,H001047,Himes,Himes,D,CT,legislator,Himes,7
+McCarthy,H001091,Hinson,Hinson,R,IA,legislator,Hinson,7
+Jeffries,H001066,Horsford,Horsford,D,NV,legislator,Horsford,7
+McCarthy,H001093,Houchin,Houchin,R,IN,legislator,Houchin,7
+Jeffries,H001085,Houlahan,Houlahan,D,PA,legislator,Houlahan,7
+Jeffries,H000874,Hoyer,Hoyer,D,MD,legislator,Hoyer,7
+Jeffries,H001094,Hoyle (OR),Hoyle (OR),D,OR,legislator,Hoyle (OR),7
+McCarthy,H001067,Hudson,Hudson,R,NC,legislator,Hudson,7
+Jeffries,H001068,Huffman,Huffman,D,CA,legislator,Huffman,7
+McCarthy,H001058,Huizenga,Huizenga,R,MI,legislator,Huizenga,7
+McCarthy,H001095,Hunt,Hunt,R,TX,legislator,Hunt,7
+McCarthy,I000056,Issa,Issa,R,CA,legislator,Issa,7
+Jeffries,I000058,Ivey,Ivey,D,MD,legislator,Ivey,7
+Jeffries,J000309,Jackson (IL),Jackson (IL),D,IL,legislator,Jackson (IL),7
+Jeffries,J000308,Jackson (NC),Jackson (NC),D,NC,legislator,Jackson (NC),7
+McCarthy,J000304,Jackson (TX),Jackson (TX),R,TX,legislator,Jackson (TX),7
+Jeffries,J000032,Jackson Lee,Jackson Lee,D,TX,legislator,Jackson Lee,7
+Jeffries,J000305,Jacobs,Jacobs,D,CA,legislator,Jacobs,7
+McCarthy,J000307,James,James,R,MI,legislator,James,7
+Jeffries,J000298,Jayapal,Jayapal,D,WA,legislator,Jayapal,7
+Jeffries,J000294,Jeffries,Jeffries,D,NY,legislator,Jeffries,7
+Jeffries,J000288,Johnson (GA),Johnson (GA),D,GA,legislator,Johnson (GA),7
+McCarthy,J000299,Johnson (LA),Johnson (LA),R,LA,legislator,Johnson (LA),7
+McCarthy,J000292,Johnson (OH),Johnson (OH),R,OH,legislator,Johnson (OH),7
+McCarthy,J000301,Johnson (SD),Johnson (SD),R,SD,legislator,Johnson (SD),7
+McCarthy,J000289,Jordan,Jordan,R,OH,legislator,Jordan,7
+McCarthy,J000295,Joyce (OH),Joyce (OH),R,OH,legislator,Joyce (OH),7
+McCarthy,J000302,Joyce (PA),Joyce (PA),R,PA,legislator,Joyce (PA),7
+Jeffries,K000400,Kamlager-Dove,Kamlager-Dove,D,CA,legislator,Kamlager-Dove,7
+Jeffries,K000009,Kaptur,Kaptur,D,OH,legislator,Kaptur,7
+McCarthy,K000398,Kean (NJ),Kean (NJ),R,NJ,legislator,Kean (NJ),7
+Jeffries,K000375,Keating,Keating,D,MA,legislator,Keating,7
+Jeffries,K000385,Kelly (IL),Kelly (IL),D,IL,legislator,Kelly (IL),7
+McCarthy,K000388,Kelly (MS),Kelly (MS),R,MS,legislator,Kelly (MS),7
+McCarthy,K000376,Kelly (PA),Kelly (PA),R,PA,legislator,Kelly (PA),7
+Jeffries,K000389,Khanna,Khanna,D,CA,legislator,Khanna,7
+McCarthy,K000399,Kiggans (VA),Kiggans (VA),R,VA,legislator,Kiggans (VA),7
+Jeffries,K000380,Kildee,Kildee,D,MI,legislator,Kildee,7
+McCarthy,K000401,Kiley,Kiley,R,CA,legislator,Kiley,7
+Jeffries,K000381,Kilmer,Kilmer,D,WA,legislator,Kilmer,7
+McCarthy,K000397,Kim (CA),Kim (CA),R,CA,legislator,Kim (CA),7
+Jeffries,K000394,Kim (NJ),Kim (NJ),D,NJ,legislator,Kim (NJ),7
+Jeffries,K000391,Krishnamoorthi,Krishnamoorthi,D,IL,legislator,Krishnamoorthi,7
+Jeffries,K000382,Kuster,Kuster,D,NH,legislator,Kuster,7
+McCarthy,K000392,Kustoff,Kustoff,R,TN,legislator,Kustoff,7
+McCarthy,L000585,LaHood,LaHood,R,IL,legislator,LaHood,7
+McCarthy,L000598,LaLota,LaLota,R,NY,legislator,LaLota,7
+McCarthy,L000578,LaMalfa,LaMalfa,R,CA,legislator,LaMalfa,7
+McCarthy,L000564,Lamborn,Lamborn,R,CO,legislator,Lamborn,7
+Jeffries,L000601,Landsman,Landsman,D,OH,legislator,Landsman,7
+McCarthy,L000600,Langworthy,Langworthy,R,NY,legislator,Langworthy,7
+Jeffries,L000560,Larsen (WA),Larsen (WA),D,WA,legislator,Larsen (WA),7
+Jeffries,L000557,Larson (CT),Larson (CT),D,CT,legislator,Larson (CT),7
+McCarthy,L000566,Latta,Latta,R,OH,legislator,Latta,7
+McCarthy,L000266,LaTurner,LaTurner,R,KS,legislator,LaTurner,7
+McCarthy,L000599,Lawler,Lawler,R,NY,legislator,Lawler,7
+Jeffries,L000551,Lee (CA),Lee (CA),D,CA,legislator,Lee (CA),7
+McCarthy,L000597,Lee (FL),Lee (FL),R,FL,legislator,Lee (FL),7
+Jeffries,L000590,Lee (NV),Lee (NV),D,NV,legislator,Lee (NV),7
+Jeffries,L000602,Lee (PA),Lee (PA),D,PA,legislator,Lee (PA),7
+Jeffries,L000273,Leger Fernandez,Leger Fernandez,D,NM,legislator,Leger Fernandez,7
+McCarthy,L000589,Lesko,Lesko,R,AZ,legislator,Lesko,7
+McCarthy,L000595,Letlow,Letlow,R,LA,legislator,Letlow,7
+Jeffries,L000593,Levin,Levin,D,CA,legislator,Levin,7
+Jeffries,L000582,Lieu,Lieu,D,CA,legislator,Lieu,7
+Jeffries,L000397,Lofgren,Lofgren,D,CA,legislator,Lofgren,7
+McCarthy,L000583,Loudermilk,Loudermilk,R,GA,legislator,Loudermilk,7
+McCarthy,L000491,Lucas,Lucas,R,OK,legislator,Lucas,7
+McCarthy,L000569,Luetkemeyer,Luetkemeyer,R,MO,legislator,Luetkemeyer,7
+Donalds,L000596,Luna,Luna,R,FL,legislator,Luna,7
+McCarthy,L000603,Luttrell,Luttrell,R,TX,legislator,Luttrell,7
+Jeffries,L000562,Lynch,Lynch,D,MA,legislator,Lynch,7
+McCarthy,M000194,Mace,Mace,R,SC,legislator,Mace,7
+Jeffries,M001223,Magaziner,Magaziner,D,RI,legislator,Magaziner,7
+McCarthy,M000317,Malliotakis,Malliotakis,R,NY,legislator,Malliotakis,7
+McCarthy,M000871,Mann,Mann,R,KS,legislator,Mann,7
+Jeffries,M001135,Manning,Manning,D,NC,legislator,Manning,7
+McCarthy,M001184,Massie,Massie,R,KY,legislator,Massie,7
+McCarthy,M001199,Mast,Mast,R,FL,legislator,Mast,7
+Jeffries,M001163,Matsui,Matsui,D,CA,legislator,Matsui,7
+Jeffries,M001208,McBath,McBath,D,GA,legislator,McBath,7
+McCarthy,M001165,McCarthy,McCarthy,R,CA,legislator,McCarthy,7
+McCarthy,M001157,McCaul,McCaul,R,TX,legislator,McCaul,7
+McCarthy,M001136,McClain,McClain,R,MI,legislator,McClain,7
+McCarthy,M001177,McClintock,McClintock,R,CA,legislator,McClintock,7
+Jeffries,M001143,McCollum,McCollum,D,MN,legislator,McCollum,7
+McCarthy,M001218,McCormick,McCormick,R,GA,legislator,McCormick,7
+Jeffries,M001220,McGarvey,McGarvey,D,KY,legislator,McGarvey,7
+Jeffries,M000312,McGovern,McGovern,D,MA,legislator,McGovern,7
+McCarthy,M001156,McHenry,McHenry,R,NC,legislator,McHenry,7
+Jeffries,M001137,Meeks,Meeks,D,NY,legislator,Meeks,7
+Jeffries,M001226,Menendez,Menendez,D,NJ,legislator,Menendez,7
+Jeffries,M001188,Meng,Meng,D,NY,legislator,Meng,7
+McCarthy,M001204,Meuser,Meuser,R,PA,legislator,Meuser,7
+Jeffries,M000687,Mfume,Mfume,D,MD,legislator,Mfume,7
+Donalds,M001211,Miller (IL),Miller (IL),R,IL,legislator,Miller (IL),7
+McCarthy,M001222,Miller (OH),Miller (OH),R,OH,legislator,Miller (OH),7
+McCarthy,M001205,Miller (WV),Miller (WV),R,WV,legislator,Miller (WV),7
+McCarthy,M001215,Miller-Meeks,Miller-Meeks,R,IA,legislator,Miller-Meeks,7
+McCarthy,M001216,Mills,Mills,R,FL,legislator,Mills,7
+McCarthy,M001221,Molinaro,Molinaro,R,NY,legislator,Molinaro,7
+McCarthy,M001194,Moolenaar,Moolenaar,R,MI,legislator,Moolenaar,7
+McCarthy,M001195,Mooney,Mooney,R,WV,legislator,Mooney,7
+McCarthy,M001212,Moore (AL),Moore (AL),R,AL,legislator,Moore (AL),7
+McCarthy,M001213,Moore (UT),Moore (UT),R,UT,legislator,Moore (UT),7
+Jeffries,M001160,Moore (WI),Moore (WI),D,WI,legislator,Moore (WI),7
+McCarthy,M001224,Moran,Moran,R,TX,legislator,Moran,7
+Jeffries,M001206,Morelle,Morelle,D,NY,legislator,Morelle,7
+Jeffries,M001217,Moskowitz,Moskowitz,D,FL,legislator,Moskowitz,7
+Jeffries,M001196,Moulton,Moulton,D,MA,legislator,Moulton,7
+Jeffries,M001214,Mrvan,Mrvan,D,IN,legislator,Mrvan,7
+Jeffries,M001225,Mullin,Mullin,D,CA,legislator,Mullin,7
+McCarthy,M001210,Murphy,Murphy,R,NC,legislator,Murphy,7
+Jeffries,N000002,Nadler,Nadler,D,NY,legislator,Nadler,7
+Jeffries,N000179,Napolitano,Napolitano,D,CA,legislator,Napolitano,7
+Jeffries,N000015,Neal,Neal,D,MA,legislator,Neal,7
+Jeffries,N000191,Neguse,Neguse,D,CO,legislator,Neguse,7
+McCarthy,N000026,Nehls,Nehls,R,TX,legislator,Nehls,7
+McCarthy,N000189,Newhouse,Newhouse,R,WA,legislator,Newhouse,7
+Jeffries,N000194,Nickel,Nickel,D,NC,legislator,Nickel,7
+Jeffries,N000188,Norcross,Norcross,D,NJ,legislator,Norcross,7
+Donalds,N000190,Norman,Norman,R,SC,legislator,Norman,7
+McCarthy,N000193,Nunn (IA),Nunn (IA),R,IA,legislator,Nunn (IA),7
+McCarthy,O000019,Obernolte,Obernolte,R,CA,legislator,Obernolte,7
+Jeffries,O000172,Ocasio-Cortez,Ocasio-Cortez,D,NY,legislator,Ocasio-Cortez,7
+Donalds,O000175,Ogles,Ogles,R,TN,legislator,Ogles,7
+Jeffries,O000173,Omar,Omar,D,MN,legislator,Omar,7
+McCarthy,O000086,Owens,Owens,R,UT,legislator,Owens,7
+Jeffries,P000034,Pallone,Pallone,D,NJ,legislator,Pallone,7
+McCarthy,P000609,Palmer,Palmer,R,AL,legislator,Palmer,7
+Jeffries,P000613,Panetta,Panetta,D,CA,legislator,Panetta,7
+Jeffries,P000614,Pappas,Pappas,D,NH,legislator,Pappas,7
+Jeffries,P000096,Pascrell,Pascrell,D,NJ,legislator,Pascrell,7
+Jeffries,P000604,Payne,Payne,D,NJ,legislator,Payne,7
+Jeffries,P000197,Pelosi,Pelosi,D,CA,legislator,Pelosi,7
+Jeffries,P000619,Peltola,Peltola,D,AK,legislator,Peltola,7
+McCarthy,P000615,Pence,Pence,R,IN,legislator,Pence,7
+Jeffries,G000600,Perez,Perez,D,WA,legislator,Perez,7
+Donalds,P000605,Perry,Perry,R,PA,legislator,Perry,7
+Jeffries,P000608,Peters,Peters,D,CA,legislator,Peters,7
+Jeffries,P000620,Pettersen,Pettersen,D,CO,legislator,Pettersen,7
+McCarthy,P000048,Pfluger,Pfluger,R,TX,legislator,Pfluger,7
+Jeffries,P000616,Phillips,Phillips,D,MN,legislator,Phillips,7
+Jeffries,P000597,Pingree,Pingree,D,ME,legislator,Pingree,7
+Jeffries,P000607,Pocan,Pocan,D,WI,legislator,Pocan,7
+Jeffries,P000618,Porter,Porter,D,CA,legislator,Porter,7
+McCarthy,P000599,Posey,Posey,R,FL,legislator,Posey,7
+Jeffries,P000617,Pressley,Pressley,D,MA,legislator,Pressley,7
+Jeffries,Q000023,Quigley,Quigley,D,IL,legislator,Quigley,7
+Jeffries,R000617,Ramirez,Ramirez,D,IL,legislator,Ramirez,7
+Jeffries,R000606,Raskin,Raskin,D,MD,legislator,Raskin,7
+McCarthy,R000610,Reschenthaler,Reschenthaler,R,PA,legislator,Reschenthaler,7
+McCarthy,M001159,Rodgers (WA),Rodgers (WA),R,WA,legislator,Rodgers (WA),7
+McCarthy,R000575,Rogers (AL),Rogers (AL),R,AL,legislator,Rogers (AL),7
+McCarthy,R000395,Rogers (KY),Rogers (KY),R,KY,legislator,Rogers (KY),7
+McCarthy,R000612,Rose,Rose,R,TN,legislator,Rose,7
+Donalds,R000103,Rosendale,Rosendale,R,MT,legislator,Rosendale,7
+Jeffries,R000305,Ross,Ross,D,NC,legislator,Ross,7
+McCarthy,R000603,Rouzer,Rouzer,R,NC,legislator,Rouzer,7
+Donalds,R000614,Roy,Roy,R,TX,legislator,Roy,7
+Jeffries,R000599,Ruiz,Ruiz,D,CA,legislator,Ruiz,7
+Jeffries,R000576,Ruppersberger,Ruppersberger,D,MD,legislator,Ruppersberger,7
+McCarthy,R000609,Rutherford,Rutherford,R,FL,legislator,Rutherford,7
+Jeffries,R000579,Ryan,Ryan,D,NY,legislator,Ryan,7
+McCarthy,S000168,Salazar,Salazar,R,FL,legislator,Salazar,7
+Jeffries,S001226,Salinas,Salinas,D,OR,legislator,Salinas,7
+Jeffries,S001156,Sanchez,Sanchez,D,CA,legislator,Sánchez,7
+McCarthy,S001222,Santos,Santos,R,NY,legislator,Santos,7
+Jeffries,S001168,Sarbanes,Sarbanes,D,MD,legislator,Sarbanes,7
+McCarthy,S001176,Scalise,Scalise,R,LA,legislator,Scalise,7
+Jeffries,S001205,Scanlon,Scanlon,D,PA,legislator,Scanlon,7
+Jeffries,S001145,Schakowsky,Schakowsky,D,IL,legislator,Schakowsky,7
+Jeffries,S001150,Schiff,Schiff,D,CA,legislator,Schiff,7
+Jeffries,S001190,Schneider,Schneider,D,IL,legislator,Schneider,7
+Jeffries,S001221,Scholten,Scholten,D,MI,legislator,Scholten,7
+Jeffries,S001216,Schrier,Schrier,D,WA,legislator,Schrier,7
+McCarthy,S001183,Schweikert,Schweikert,R,AZ,legislator,Schweikert,7
+Jeffries,S000185,Scott (VA),Scott (VA),D,VA,legislator,Scott (VA),7
+McCarthy,S001189,"Scott, Austin","Scott, Austin",R,GA,legislator,"Scott, Austin",7
+Jeffries,S001157,"Scott, David","Scott, David",D,GA,legislator,"Scott, David",7
+Donalds,S001224,Self,Self,R,TX,legislator,Self,7
+McCarthy,S000250,Sessions,Sessions,R,TX,legislator,Sessions,7
+Jeffries,S001185,Sewell,Sewell,D,AL,legislator,Sewell,7
+Jeffries,S000344,Sherman,Sherman,D,CA,legislator,Sherman,7
+Jeffries,S001207,Sherrill,Sherrill,D,NJ,legislator,Sherrill,7
+McCarthy,S001148,Simpson,Simpson,R,ID,legislator,Simpson,7
+Jeffries,S001208,Slotkin,Slotkin,D,MI,legislator,Slotkin,7
+McCarthy,S001195,Smith (MO),Smith (MO),R,MO,legislator,Smith (MO),7
+McCarthy,S001172,Smith (NE),Smith (NE),R,NE,legislator,Smith (NE),7
+McCarthy,S000522,Smith (NJ),Smith (NJ),R,NJ,legislator,Smith (NJ),7
+Jeffries,S000510,Smith (WA),Smith (WA),D,WA,legislator,Smith (WA),7
+McCarthy,S001199,Smucker,Smucker,R,PA,legislator,Smucker,7
+Jeffries,S001225,Sorensen,Sorensen,D,IL,legislator,Sorensen,7
+Jeffries,S001200,Soto,Soto,D,FL,legislator,Soto,7
+Jeffries,S001209,Spanberger,Spanberger,D,VA,legislator,Spanberger,7
+Present,S000929,Spartz,Spartz,R,IN,legislator,Spartz,7
+Jeffries,S001218,Stansbury,Stansbury,D,NM,legislator,Stansbury,7
+Jeffries,S001211,Stanton,Stanton,D,AZ,legislator,Stanton,7
+McCarthy,S001212,Stauber,Stauber,R,MN,legislator,Stauber,7
+McCarthy,S001135,Steel,Steel,R,CA,legislator,Steel,7
+McCarthy,S001196,Stefanik,Stefanik,R,NY,legislator,Stefanik,7
+McCarthy,S001213,Steil,Steil,R,WI,legislator,Steil,7
+McCarthy,S001214,Steube,Steube,R,FL,legislator,Steube,7
+Jeffries,S001215,Stevens,Stevens,D,MI,legislator,Stevens,7
+McCarthy,S001192,Stewart,Stewart,R,UT,legislator,Stewart,7
+Jeffries,S001159,Strickland,Strickland,D,WA,legislator,Strickland,7
+McCarthy,S001220,Strong,Strong,R,AL,legislator,Strong,7
+Jeffries,S001193,Swalwell,Swalwell,D,CA,legislator,Swalwell,7
+Jeffries,S001223,Sykes,Sykes,D,OH,legislator,Sykes,7
+Jeffries,T000472,Takano,Takano,D,CA,legislator,Takano,7
+McCarthy,T000478,Tenney,Tenney,R,NY,legislator,Tenney,7
+Jeffries,T000488,Thanedar,Thanedar,D,MI,legislator,Thanedar,7
+Jeffries,T000460,Thompson (CA),Thompson (CA),D,CA,legislator,Thompson (CA),7
+Jeffries,T000193,Thompson (MS),Thompson (MS),D,MS,legislator,Thompson (MS),7
+McCarthy,T000467,Thompson (PA),Thompson (PA),R,PA,legislator,Thompson (PA),7
+McCarthy,T000165,Tiffany,Tiffany,R,WI,legislator,Tiffany,7
+McCarthy,T000480,Timmons,Timmons,R,SC,legislator,Timmons,7
+Jeffries,T000468,Titus,Titus,D,NV,legislator,Titus,7
+Jeffries,T000481,Tlaib,Tlaib,D,MI,legislator,Tlaib,7
+Jeffries,T000487,Tokuda,Tokuda,D,HI,legislator,Tokuda,7
+Jeffries,T000469,Tonko,Tonko,D,NY,legislator,Tonko,7
+Jeffries,T000474,Torres (CA),Torres (CA),D,CA,legislator,Torres (CA),7
+Jeffries,T000486,Torres (NY),Torres (NY),D,NY,legislator,Torres (NY),7
+Jeffries,T000482,Trahan,Trahan,D,MA,legislator,Trahan,7
+Jeffries,T000483,Trone,Trone,D,MD,legislator,Trone,7
+McCarthy,T000463,Turner,Turner,R,OH,legislator,Turner,7
+Jeffries,U000040,Underwood,Underwood,D,IL,legislator,Underwood,7
+McCarthy,V000129,Valadao,Valadao,R,CA,legislator,Valadao,7
+McCarthy,V000133,Van Drew,Van Drew,R,NJ,legislator,Van Drew,7
+McCarthy,V000134,Van Duyne,Van Duyne,R,TX,legislator,Van Duyne,7
+McCarthy,V000135,Van Orden,Van Orden,R,WI,legislator,Van Orden,7
+Jeffries,V000130,Vargas,Vargas,D,CA,legislator,Vargas,7
+Jeffries,V000136,Vasquez,Vasquez,D,NM,legislator,Vasquez,7
+Jeffries,V000131,Veasey,Veasey,D,TX,legislator,Veasey,7
+Jeffries,V000081,Velazquez,Velazquez,D,NY,legislator,Velázquez,7
+McCarthy,W000812,Wagner,Wagner,R,MO,legislator,Wagner,7
+McCarthy,W000798,Walberg,Walberg,R,MI,legislator,Walberg,7
+McCarthy,W000823,Waltz,Waltz,R,FL,legislator,Waltz,7
+Jeffries,W000797,Wasserman Schultz,Wasserman Schultz,D,FL,legislator,Wasserman Schultz,7
+Jeffries,W000187,Waters,Waters,D,CA,legislator,Waters,7
+Jeffries,W000822,Watson Coleman,Watson Coleman,D,NJ,legislator,Watson Coleman,7
+McCarthy,W000814,Weber (TX),Weber (TX),R,TX,legislator,Weber (TX),7
+McCarthy,W000806,Webster (FL),Webster (FL),R,FL,legislator,Webster (FL),7
+McCarthy,W000815,Wenstrup,Wenstrup,R,OH,legislator,Wenstrup,7
+McCarthy,W000821,Westerman,Westerman,R,AR,legislator,Westerman,7
+Jeffries,W000825,Wexton,Wexton,D,VA,legislator,Wexton,7
+Jeffries,W000826,Wild,Wild,D,PA,legislator,Wild,7
+Jeffries,W000788,Williams (GA),Williams (GA),D,GA,legislator,Williams (GA),7
+McCarthy,W000828,Williams (NY),Williams (NY),R,NY,legislator,Williams (NY),7
+McCarthy,W000816,Williams (TX),Williams (TX),R,TX,legislator,Williams (TX),7
+Jeffries,W000808,Wilson (FL),Wilson (FL),D,FL,legislator,Wilson (FL),7
+McCarthy,W000795,Wilson (SC),Wilson (SC),R,SC,legislator,Wilson (SC),7
+McCarthy,W000804,Wittman,Wittman,R,VA,legislator,Wittman,7
+McCarthy,W000809,Womack,Womack,R,AR,legislator,Womack,7
+McCarthy,Y000067,Yakym,Yakym,R,IN,legislator,Yakym,7
+McCarthy,Z000018,Zinke,Zinke,R,MT,legislator,Zinke,7
