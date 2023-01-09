@@ -1,7 +1,7 @@
 # US 2023 House Speaker Election Dataset
 ## Author: Samuel Rodriguez
 ## Contact: sam@thesamrodriguez.com
-## Last Updated: 01/08/23
+## Last Updated: 01/09/23
 ## Created: 01/08/23
 
 This repo contains aggregrated data from the US 2023 House Speaker Election
